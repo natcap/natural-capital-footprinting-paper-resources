@@ -1,1 +1,1 @@
-# morgan-stanley-public
+# natural-capital-footprint-paper-resources
