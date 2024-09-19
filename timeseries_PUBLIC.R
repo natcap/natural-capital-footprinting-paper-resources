@@ -7,7 +7,7 @@ library(reporter)
 library(magrittr)
 
 # Import Greenbushes mine data
-Greenbushes_trends <- read.csv("./Greenbushes_Impact_trends.csv")
+Greenbushes_trends <- read.csv("./Greenbushes_Impact_trends_PUBLIC.csv")
 
 # Plot change in absolute impact
 dAbsolute <- ggplot(Greenbushes_trends, aes(x=footprint_Q1_of_year)) +

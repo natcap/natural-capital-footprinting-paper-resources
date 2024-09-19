@@ -11,9 +11,11 @@ This repository contains the following files:
 * `final.ipynb` : Jupyter notebook for processing asset-level data from the S&P Physical Risk dataset, processing the global impact maps, and running the Ecosystem Services Footprinting Tool for assets belonging to companies in the MSCI ACWI index
 * `MSCI_ACWI_analyses_paper.R` : Code for analyzing company-level impacts of MSCI ACWI companies by sector and industry and creating Figures 2 and 3 in the paper
 * `comparisonPlot.R` : Code for generating figures of lithium mine impacts comparisons
-* `timeseries.R` : Code to create plots of Greenbushes, Australia lithium mine impacts through time
+* `timeseries_PUBLIC.R` : Code to create plots of Greenbushes, Australia lithium mine impacts through time; excluding proprietary production data from S&P.
+* `lithiumMineComparisonPlot.csv` : CSV file containing input data to run `comparisonPlot.R` script and create plots comparing lithium mine total impacts.
+* `lithiumMineComparisonPlot_Rank.csv` : CSV file containing input data to run `comparisonPlot.R` script and create plots comparing lithium mines ranked by their impacts.
+* `Greenbushes_Impact_trends_PUBLIC.csv` : CSV file containing input data to run `timeseries_PUBLIC.R` script and create plots comparing the change in impacts of the Greenbushes lithium mine through time (2016-2023); excluding proprietary production data from S&P.
 
 Additional related material:
-* The Ecosystem Services Footprinting Tool and global ecosystems services impact maps (coastal risk reduction, sediment retention, nutrient retention, and nature access) are available at https://github.com/natcap/natural-capital-footprint-impact
+* The Ecosystem Services Footprinting Tool and global ecosystems services impact maps (coastal risk reduction, sediment retention, nutrient retention, and nature access) are available at https://github.com/natcap/natural-capital-footprint-impact.
 
-   
