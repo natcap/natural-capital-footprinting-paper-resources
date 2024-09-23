@@ -1,6 +1,6 @@
 # Code and data associated with _An open-source approach for the estimation of corporate impacts on ecosystem services and biodiversity_
 
->Code and data for: _An open-source approach for the estimation of corporate impacts on ecosystem services and biodiversity._ 2024. Mandle L, Shea A, Soth E, Wolny S, Smith JR, Chaplin-Kramer R, Sharp RP, Patel M and Goldstein JA. preprint: https://doi.org/10.22541/au.170967630.06341452/v1 . 
+>Code and data for: _An open-source approach for measuring corporate impacts on ecosystem services and biodiversity._ 2024. Mandle L, Shea A, Soth E, Wolny S, Smith JR, Chaplin-Kramer R, Sharp RP, Patel M and Goldstein JA. preprint: https://doi.org/10.22541/au.170967630.06341452/v1 . 
 
 >Code written by: Emily Soth, Jeffrey R. Smith, Lisa Mandle, and Jesse A. Goldstein
 
